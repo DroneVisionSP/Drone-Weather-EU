@@ -1,0 +1,62 @@
+{
+    "Mini 5 Pro": {
+        "max_wind": 12,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Mini 4 Pro": {
+        "max_wind": 10.7,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Mini 3 Pro": {
+        "max_wind": 10.7,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Mini 3": {
+        "max_wind": 10.7,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Mini 4K": {
+        "max_wind": 10.7,
+        "min_temp": 0,
+        "max_temp": 40
+    },
+    "Air 3": {
+        "max_wind": 12,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Air 3S": {
+        "max_wind": 12,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Mavic 3 Pro": {
+        "max_wind": 12,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Mavic 4 Pro": {
+        "max_wind": 12,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Neo 2": {
+        "max_wind": 10.7,
+        "min_temp": -10,
+        "max_temp": 40
+    },
+    "Inspire 3": {
+        "max_wind": 12,
+        "min_temp": -20,
+        "max_temp": 40
+    },
+    "Matrice 4TD": {
+        "max_wind": 12,
+        "min_temp": -20,
+        "max_temp": 50
+    }
+}

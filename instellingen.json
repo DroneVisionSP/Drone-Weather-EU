@@ -1,0 +1,8 @@
+{
+    "drone": "Mini 5 Pro",
+    "start_uur": 10,
+    "eind_uur": 16,
+    "marge": 0.7,
+    "max_regen": 0.1,
+    "min_zicht": 1000
+}
